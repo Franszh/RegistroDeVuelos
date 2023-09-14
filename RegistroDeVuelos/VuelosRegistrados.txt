@@ -1,0 +1,28 @@
+
+Vuelo: AR 200
+Fecha: 2023-09-05
+Hora: 08:40
+Vuelo: AR 200
+Fecha: 2023-09-05
+Hora: 13:45
+Vuelo: AR 200
+Fecha: 2023-09-05
+Hora: 22:50
+Vuelo: AR 201
+Fecha: 2023-09-08
+Hora: 08:00
+Vuelo: AR 201
+Fecha: 2023-09-08
+Hora: 12:04
+Vuelo: AR 201
+Fecha: 2023-09-08
+Hora: 18:10
+Vuelo: AR 300
+Fecha: 2023-09-14
+Hora: 07:04
+Vuelo: AR 300
+Fecha: 2023-09-14
+Hora: 11:08
+Vuelo: AR 300
+Fecha: 2023-09-14
+Hora: 17:14
